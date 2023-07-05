@@ -1,0 +1,21 @@
+.hi{border: 10px dotted black;
+    margin: 80px;
+   background-color: brown;
+   box-shadow: 30px;
+}
+
+span{
+margin: 40px;
+border: 5px rgb(114, 250, 150) solid;
+padding: 10px;
+text-align: center;
+background-color: yellow;
+box-shadow: 10px 10px 20px blueviolet;}
+.harry{height:600px ;
+text-align: center;
+background-image: url('../IMG_20230514_115621.jpg')
+ ;
+background-size:100% 100%;
+background-repeat: no-repeat;
+
+}
