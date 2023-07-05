@@ -2,6 +2,7 @@
     margin: 80px;
    background-color: brown;
    box-shadow: 30px;
+    text-align: center;
 }
 
 span{
@@ -15,5 +16,5 @@ background-image: url('../IMG_20230514_115621.jpg')
  ;
 background-size:100% 100%;
 background-repeat: no-repeat;
-
+text-align: center;
 }
